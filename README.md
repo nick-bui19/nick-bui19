@@ -1,8 +1,8 @@
-👋 Hi there, my name is Nick 
-👀 I’m interested in Full-Stack Development and Machine Learning
-🌱 I’m currently a 2nd year at Vanderbilt University
-⚡ I enjoy creating new ideas and collaborating with others to help people with their ideas.
-📫 How to reach me: school email: giao.bui@vanderbilt.edu and/or my personal email: tronggiao1908@gmail.com
+👋 Hi there, my name is Nick<br/>
+👀 I’m interested in Full-Stack Development and Machine Learning<br/>
+🌱 I’m currently a 2nd year at Vanderbilt University<br/>
+⚡ I enjoy creating new ideas and collaborating with others to help people with their ideas.<br/>
+📫 How to reach me: school email: giao.bui@vanderbilt.edu and/or my personal email: tronggiao1908@gmail.com<br/>
 
 <!--
 **nick-bui19/nick-bui19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
