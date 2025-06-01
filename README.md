@@ -1,21 +1,20 @@
-👋 Hi there, my name is Nick<br/>
-👀 I’m interested in Full-Stack Development, Machine Learning, AI, and Product Management<br/>
-🌱 I’m an incoming senior at Vanderbilt University<br/>
-⚡ I enjoy creating new ideas and collaborating with others to help people with their ideas.<br/>
-📫 How to reach me: school email: nick.bui@vanderbilt.edu and/or my personal email: tronggiao1908@gmail.com<br/>
-💬 My personal website: https://nick-bui19.github.io/
+Hi! My name is Nick Bui
+====================================================================================================================================
 
-<!--
-**nick-bui19/nick-bui19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m an incoming Computer Science and Math senior at Vanderbilt University<br/>
+👀 I’m interested in Full-Stack Development, Data Engineering, AI, and Product Management<br/>
+⚡ I'm open to collaborating on all kinds of projects.<br/>
+📫 Reach me at [nick.bui@vanderbilt.edu] (mailto:nick.bui@vanderbilt.edu] and/or [tronggiao1908@gmail.com](mailto: tronggiao1908@gmail.com)<br/>
+💬 My personal website: [https://nick-bui19.github.io/](https://nick-bui19.github.io/)
 
-Here are some ideas to get you started:
+### Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://www.github.com/github.com/nick-bui19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arvchahal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+![](https://komarev.com/ghpvc/?username=your-github-nick-bui19)
+
+
+<b>GitHub Stats</b>
+
+
+<a href="http://www.github.com/nick-bui19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nick-bui19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
