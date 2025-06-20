@@ -5,7 +5,7 @@ Hi! My name is Nick Bui
 👀 I’m interested in Full-Stack Development, Data Engineering, AI, and Product Management<br/>
 ⚡ I'm open to collaborating on all kinds of projects.<br/>
 📫 Reach me at nick.bui@vanderbilt.edu or tronggiao1908@gmail.com <br/>
-💬 My personal website: https://nick-bui19.github.io/
+💬 My portfolio: https://nick-bui19.github.io/
 
 ### Socials
 
