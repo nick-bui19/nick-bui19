@@ -1,7 +1,7 @@
 Hi! My name is Nick Bui
 ====================================================================================================================================
 
-🌱 I’m an incoming Computer Science and Math senior at Vanderbilt University<br/>
+🌱 I’m a Senior majoring in Computer Science and Math at Vanderbilt University<br/>
 👀 I’m interested in Full-Stack Development, Data Engineering, AI, and Product Management<br/>
 ⚡ I'm open to collaborating on all kinds of projects.<br/>
 📫 Reach me at nick.bui@vanderbilt.edu or tronggiao1908@gmail.com <br/>
