@@ -3,7 +3,7 @@ Hi! My name is Nick Bui
 
 🌱 Senior majoring in CS + Math @ Vanderbilt <br/>
 👀 I’m interested in Full-Stack Development, Data Engineering, and AI<br/>
-📫 Reach me at nick.bui@vanderbilt.edu or nicholas.bui.8@gmail.com <br/>
+📫 Reach me at nicholas.bui.8@gmail.com <br/>
 💬 My portfolio: https://nick-bui19.github.io/
 
 ### Socials
